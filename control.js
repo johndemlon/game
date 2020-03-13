@@ -9,11 +9,11 @@ context.canvas.width = 320;
 
 rectangle = {
 
-  height:32,
+  height:50,
   jumping:true,
-  width:32,
+  width:50,
   x:144, // center of the canvas
-  x_velocity:0,
+  x_velocity:1,
   y:0,
   y_velocity:0
 
