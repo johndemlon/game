@@ -11,9 +11,9 @@ rectangle = {
 
   height:50,
   jumping:true,
-  width:25,
+  width:10,
   x:144, // center of the canvas
-  x_velocity:1,
+  x_velocity:20,
   y:0,
   y_velocity:0
 
