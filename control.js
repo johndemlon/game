@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@johndemlon 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-pothonprogramming
-/
-pothonprogramming.github.io
-2
-828
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-pothonprogramming.github.io/content/control/control.js
-@pothonprogramming pothonprogramming removed directory files used in frankpoth.info site. Also, renamed so…
-0e1774e on Nov 30, 2019
-116 lines (79 sloc)  2.23 KB
- 
- Code navigation is available for this repository but data for this commit does not exist.
-
-Learn more or give us feedback
 // Frank Poth 08/13/2017
 
 var context, controller, rectangle, loop;
@@ -141,15 +114,3 @@ loop = function() {
 window.addEventListener("keydown", controller.keyListener)
 window.addEventListener("keyup", controller.keyListener);
 window.requestAnimationFrame(loop);
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
